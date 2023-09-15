@@ -39,6 +39,10 @@ h1{ color: black;
     margin-right: 45px;
     padding-bottom: 20px;
 }
+.destino{
+  padding: 30px;
+  margin: 30px;
+}
 .video{
     margin-left: 30px;
     padding-top: 50px;
@@ -55,6 +59,10 @@ h1{ color: black;
 .port{
     margin-right: 45px;
     padding-bottom: 20px;
+}
+.ubi{
+  text-align: center;
+  justify-content: center;
 }
 footer {
     background-color: #000000;
